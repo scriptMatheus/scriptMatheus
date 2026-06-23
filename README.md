@@ -7,12 +7,12 @@
 
 Sou um desenvolvedor backend especializado em projetar e otimizar ecossistemas de microsserviços. Tenho forte vivência com arquiteturas distribuídas, bancos de dados relacionais e NoSQL, além de comunicação assíncrona baseada em eventos. 
 
-Atualmente, estou expandindo meu ecossistema adicionando **Java 26** e Spring Boot ao meu toolkit de soluções.
-
+*   **💬 Tech Stack Principal:** Node.js, NestJS, Redis, RabbitMQ, MySQL e MongoDB.
 *   **🔭 Foco Atual:** Construção e otimização de APIs de alta performance em arquiteturas distribuídas orientadas a eventos.
 *   **🌱 Evoluindo em:** Ecossistema Java (JDK 26) e Spring Boot para arquiteturas corporativas robustas.
 *   **🤝 Interesses de Estudo:** Arquiteturas Hexagonais e resiliência de sistemas complexos.
-*   **💬 Tech Stack Principal:** Node.js, NestJS, Redis, RabbitMQ, MySQL e MongoDB.
+
+Atualmente, estou expandindo meu ecossistema adicionando **Java 26** e Spring Boot ao meu toolkit de soluções.
 
 ---
 
@@ -46,5 +46,5 @@ Atualmente, estou expandindo meu ecossistema adicionando **Java 26** e Spring Bo
 
 ---
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=scriptMatheus&label=Profile+views&color=black&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=scriptMatheus&label=Profile+views&color=000000&style=flat-square" alt="Views" />
 </p>
