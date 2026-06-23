@@ -32,7 +32,6 @@ Atualmente, estou expandindo meu ecossistema adicionando **Java 26** e Spring Bo
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=scriptMatheus&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptMatheus&layout=compact&theme=transparent" height="150" alt="Linguagens mais usadas" />
 </p>
 
