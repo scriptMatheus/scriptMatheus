@@ -1,11 +1,11 @@
 # Matheus Rocha
-**Backend Developer** | *Building scalable, resilient, and high-performance applications.*
+**Desenvolvedor Back-end** | *Construindo aplicações resilientes e de alta performance.*
 
 ---
 
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor backend especializado em projetar e otimizar ecossistemas de microsserviços. Tenho forte vivência com arquiteturas distribuídas, bancos de dados relacionais e NoSQL, além de comunicação assíncrona baseada em eventos. 
+Desenvolvedor backend especializado em projetar e otimizar ecossistemas de microsserviços. Tenho forte vivência com arquiteturas distribuídas, bancos de dados relacionais e NoSQL, além de comunicação assíncrona baseada em eventos. 
 
 *   **💬 Tech Stack Principal:** Node.js, NestJS, Redis, RabbitMQ, MySQL e MongoDB.
 *   **🔭 Foco Atual:** Construção e otimização de APIs de alta performance em arquiteturas distribuídas orientadas a eventos.
@@ -18,13 +18,13 @@ Atualmente, estou expandindo meu ecossistema adicionando **Java 26** e Spring Bo
 
 ### 🛠️ Tech Stack
 
-#### Core & Languages
+#### Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,java)](https://skillicons.dev)
 
-#### Messaging & Performance
+#### Mensageria e performance
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,redis)](https://skillicons.dev)
 
-#### Infrastructure & Databases
+#### Infraestrutura e Banco de dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git)](https://skillicons.dev)
 
 ---
